@@ -35,9 +35,9 @@ Q:你能把其他Windows集成进来吗？  A:看看项目名啊啊啊啊啊<br 
 <img src="https://raw.githubusercontent.com/WindowsNT351/CE-Collections-2.0/main/cetl.png"/>
 
 ## ℹ关于
-本项目由ONEW成员共同开发<br /><br />
+本项目由ONEW Studio成员共同开发<br /><br />
 
-开发团队：<br />
+开发团队(排名不分先后)：<br />
 名字             Bilibili ID<br />
 351              351Workshop<br />
 Inter            -INTER_INIT-<br />
@@ -45,6 +45,19 @@ GoldApple        不务正业的金苹果<br />
 WinPad           とある科学の手机副屏<br />
 DZY              DZY20070614<br />
 Zesa             LinuxMEMZ<br />
+
+<table>
+  <tr>
+    <td align="center"><a href="https://space.bilibili.com/484165196"><img src="https://github.com/Inter1006/Extensions/blob/main/1720663857759dcbe7c89c6455282b29bc8695211ad7924a0.jpg" width="150px;" alt=""/><br /><sub><b>351<br />351Workshop</b></sub></a><br /></td>
+    <td align="center"><a href="https://space.bilibili.com/1756824708"><img src="https://github.com/Inter1006/PenPointOS_Vbox/blob/Readme_Files/b_fa517952f054ca8c99a234cc1b50b50b.jpg" width="150px;" alt=""/><br /><sub><b>Inter1006<br />INTER_INIT</b></sub></a><br /></td>
+    <td align="center"><a href="https://space.bilibili.com/410046866"><img src="https://github.com/Inter1006/Extensions/blob/main/1720663903084330ee6855a3795b453f2ab6ded4863c9b08a.jpg" width="150px;" alt=""/><br /><sub><b>GoldApple<br />不务正业的金苹果</b></sub></a><br /></td>
+    <td align="center"><a href="https://space.bilibili.com/648710692"><img src="https://github.com/Inter1006/Extensions/blob/main/1720663907859cac6209da2520c4e1c83c6a99fb65ae1bcb4.jpg" width="150px;" alt=""/><br /><sub><b>WinPad(御坂)<br />とある科学の手机副屏</b></sub></a><br /></td>
+    <td align="center"><a href="https://space.bilibili.com/2057331843"><img src="https://github.com/Inter1006/Extensions/blob/main/17206639278647b179c13f807cbc2bf27b899725d34fc5c79.jpg" width="150px;" alt=""/><br /><sub><b>DZY<br />DZY20070614</b></sub></a><br /></td>
+    <td align="center"><a href="https://space.bilibili.com/437201853"><img src="https://github.com/Inter1006/Extensions/blob/main/1720663947047a3c221d7c72c685e35b27b3fe6d41b6f8f93.jpg" width="150px;" alt=""/><br /><sub><b>Zesa<br />LinuxMEMZ</b></sub></a><br /></td>
+  </tr>
+  
+</table>
+
 ONEW Studio QQ交流群:**981893945** 欢迎来玩<br /><br />
 
 本项目使用了以下项目的代码/资源:<br />
